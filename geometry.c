@@ -3,7 +3,7 @@
  * Andy Sayler
  * CSCI 3308
  * Summer 2014
- *
+ *we work in this
  * This file contains a simple geomtery functions.
  *
  */
